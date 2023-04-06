@@ -1,0 +1,2 @@
+# student_management_system
+C语言实现的学生管理系统 学生成绩管理系统
